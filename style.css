@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+
+* {
+    background-color: rgb(170, 204, 153);
+}
+
+.Title{
+    font-size: xxx-large;
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    font-family: 'Bangers', cursive;
+    color: rgb(205, 39, 39);
+    
+}
+
+.can{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    grid-row: 20;
+    grid-column: 20;
+    
+}
+
+
+
+.contain {
+    border: 4px solid rgb(0, 0, 0);
+    align-items: center;
+    margin: 0%;
+
+}
+
+.line {
+    height: 3px;
+    border: none;
+    background-color: black;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.scr {
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'Press Start 2P', cursive;
+    margin: 0.5%;
+}
+
